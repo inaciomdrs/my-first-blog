@@ -25,7 +25,7 @@ SECRET_KEY = 'qy)j=wv4810u5v7*mpdl5w@!tyt*)q3x@ty7u4f0&+3-rf&-ni'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'inacio.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'inacio.pythonanywhere.com']
 
 
 # Application definition
